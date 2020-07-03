@@ -1,4 +1,5 @@
 # CS50-AI-Tic-Tac-Toe
 Implemented AI for tic tac toe game
 
-Almost impossible to win against :|
+Use python runner.py to play :)
+Almost impossible to win :|
