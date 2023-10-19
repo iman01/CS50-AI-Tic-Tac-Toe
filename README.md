@@ -1,6 +1,11 @@
 # CS50-AI-Tic-Tac-Toe
-Implemented AI for tic tac toe game
+Tic tac toe game
 
-Use python runner.py to play :)
+```pip install -r requirements.txt```
 
-Almost impossible to win :|
+```python runner.py```
+
+
+
+
+
